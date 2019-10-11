@@ -150,7 +150,7 @@ npm install
 npm run dev
 ```
 
-This will automatically open http://localhost:80
+This will automatically open http://localhost:8080
 
 ## Build
 
